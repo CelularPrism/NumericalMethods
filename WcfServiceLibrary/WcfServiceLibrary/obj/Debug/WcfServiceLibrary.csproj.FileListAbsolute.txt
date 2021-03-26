@@ -1,0 +1,7 @@
+D:\ООП\Лаба 1\WcfServiceLibrary\WcfServiceLibrary\bin\Debug\WcfServiceLibrary.dll.config
+D:\ООП\Лаба 1\WcfServiceLibrary\WcfServiceLibrary\bin\Debug\WcfServiceLibrary.dll
+D:\ООП\Лаба 1\WcfServiceLibrary\WcfServiceLibrary\bin\Debug\WcfServiceLibrary.pdb
+D:\ООП\Лаба 1\WcfServiceLibrary\WcfServiceLibrary\obj\Debug\WcfServiceLibrary.csprojAssemblyReference.cache
+D:\ООП\Лаба 1\WcfServiceLibrary\WcfServiceLibrary\obj\Debug\WcfServiceLibrary.csproj.CoreCompileInputs.cache
+D:\ООП\Лаба 1\WcfServiceLibrary\WcfServiceLibrary\obj\Debug\WcfServiceLibrary.dll
+D:\ООП\Лаба 1\WcfServiceLibrary\WcfServiceLibrary\obj\Debug\WcfServiceLibrary.pdb

@@ -9,20 +9,20 @@ namespace WcfServiceLibrary
 {
     // ПРИМЕЧАНИЕ. Команду "Переименовать" в меню "Рефакторинг" можно использовать для одновременного изменения имени интерфейса "IService1" в коде и файле конфигурации.
     [ServiceContract]
-    public interface IService1
+    public interface IService
     {
         [OperationContract]
-        string GetData(int value);
+        string Method1(string x);
 
         [OperationContract]
-        CompositeType GetDataUsingDataContract(CompositeType composite);
+        string Method2(string x);
 
         // TODO: Добавьте здесь операции служб
     }
 
     // Используйте контракт данных, как показано на следующем примере, чтобы добавить сложные типы к сервисным операциям.
     // В проект можно добавлять XSD-файлы. После построения проекта вы можете напрямую использовать в нем определенные типы данных с пространством имен "WcfServiceLibrary.ContractType".
-    [DataContract]
+    /*[DataContract]
     public class CompositeType
     {
         bool boolValue = true;
@@ -41,5 +41,5 @@ namespace WcfServiceLibrary
             get { return stringValue; }
             set { stringValue = value; }
         }
-    }
+    }*/
 }

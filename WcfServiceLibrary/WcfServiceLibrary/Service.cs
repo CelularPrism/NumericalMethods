@@ -8,24 +8,16 @@ using System.Text;
 namespace WcfServiceLibrary
 {
     // ПРИМЕЧАНИЕ. Команду "Переименовать" в меню "Рефакторинг" можно использовать для одновременного изменения имени класса "Service1" в коде и файле конфигурации.
-    public class Service1 : IService1
+    public class Service : IService
     {
-        public string GetData(int value)
+        public string Method1(string x)
         {
-            return string.Format("You entered: {0}", value);
+            return string.Format("You entered: {0}", x);
         }
 
-        public CompositeType GetDataUsingDataContract(CompositeType composite)
+        public string Method2(string x)
         {
-            if (composite == null)
-            {
-                throw new ArgumentNullException("composite");
-            }
-            if (composite.BoolValue)
-            {
-                composite.StringValue += "Suffix";
-            }
-            return composite;
+            return string.Format("You entered: {0}, yeah?", x); ;
         }
     }
 }
