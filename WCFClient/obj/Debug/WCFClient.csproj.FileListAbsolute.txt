@@ -1,0 +1,20 @@
+C:\Users\Костя\Desktop\Лабы Верёвкин\4 семестр\OOPVerevkin\WCFClient\bin\Debug\WCFClient.exe.config
+C:\Users\Костя\Desktop\Лабы Верёвкин\4 семестр\OOPVerevkin\WCFClient\bin\Debug\WCFClient.exe
+C:\Users\Костя\Desktop\Лабы Верёвкин\4 семестр\OOPVerevkin\WCFClient\bin\Debug\WCFClient.pdb
+C:\Users\Костя\Desktop\Лабы Верёвкин\4 семестр\OOPVerevkin\WCFClient\obj\Debug\WCFClient.csprojAssemblyReference.cache
+C:\Users\Костя\Desktop\Лабы Верёвкин\4 семестр\OOPVerevkin\WCFClient\obj\Debug\WCFClient.Form1.resources
+C:\Users\Костя\Desktop\Лабы Верёвкин\4 семестр\OOPVerevkin\WCFClient\obj\Debug\WCFClient.Properties.Resources.resources
+C:\Users\Костя\Desktop\Лабы Верёвкин\4 семестр\OOPVerevkin\WCFClient\obj\Debug\WCFClient.csproj.GenerateResource.cache
+C:\Users\Костя\Desktop\Лабы Верёвкин\4 семестр\OOPVerevkin\WCFClient\obj\Debug\WCFClient.csproj.CoreCompileInputs.cache
+C:\Users\Костя\Desktop\Лабы Верёвкин\4 семестр\OOPVerevkin\WCFClient\obj\Debug\WCFClient.exe
+C:\Users\Костя\Desktop\Лабы Верёвкин\4 семестр\OOPVerevkin\WCFClient\obj\Debug\WCFClient.pdb
+D:\ООП\Лаба 1\WCFClient\bin\Debug\WCFClient.exe.config
+D:\ООП\Лаба 1\WCFClient\bin\Debug\WCFClient.exe
+D:\ООП\Лаба 1\WCFClient\bin\Debug\WCFClient.pdb
+D:\ООП\Лаба 1\WCFClient\obj\Debug\WCFClient.csprojAssemblyReference.cache
+D:\ООП\Лаба 1\WCFClient\obj\Debug\WCFClient.Form1.resources
+D:\ООП\Лаба 1\WCFClient\obj\Debug\WCFClient.Properties.Resources.resources
+D:\ООП\Лаба 1\WCFClient\obj\Debug\WCFClient.csproj.GenerateResource.cache
+D:\ООП\Лаба 1\WCFClient\obj\Debug\WCFClient.csproj.CoreCompileInputs.cache
+D:\ООП\Лаба 1\WCFClient\obj\Debug\WCFClient.exe
+D:\ООП\Лаба 1\WCFClient\obj\Debug\WCFClient.pdb

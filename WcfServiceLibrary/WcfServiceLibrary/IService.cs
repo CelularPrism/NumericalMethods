@@ -14,9 +14,6 @@ namespace WcfServiceLibrary
         [OperationContract]
         string Method1(string x);
 
-        [OperationContract]
-        string Method2(string x);
-
         // TODO: Добавьте здесь операции служб
     }
 

@@ -5,3 +5,10 @@ D:\ООП\Лаба 1\WcfServiceLibrary\WcfServiceLibrary\obj\Debug\WcfServiceLib
 D:\ООП\Лаба 1\WcfServiceLibrary\WcfServiceLibrary\obj\Debug\WcfServiceLibrary.csproj.CoreCompileInputs.cache
 D:\ООП\Лаба 1\WcfServiceLibrary\WcfServiceLibrary\obj\Debug\WcfServiceLibrary.dll
 D:\ООП\Лаба 1\WcfServiceLibrary\WcfServiceLibrary\obj\Debug\WcfServiceLibrary.pdb
+C:\Users\Костя\Desktop\Лабы Верёвкин\4 семестр\OOPVerevkin\WcfServiceLibrary\WcfServiceLibrary\bin\Debug\WcfServiceLibrary.dll.config
+C:\Users\Костя\Desktop\Лабы Верёвкин\4 семестр\OOPVerevkin\WcfServiceLibrary\WcfServiceLibrary\bin\Debug\WcfServiceLibrary.dll
+C:\Users\Костя\Desktop\Лабы Верёвкин\4 семестр\OOPVerevkin\WcfServiceLibrary\WcfServiceLibrary\bin\Debug\WcfServiceLibrary.pdb
+C:\Users\Костя\Desktop\Лабы Верёвкин\4 семестр\OOPVerevkin\WcfServiceLibrary\WcfServiceLibrary\obj\Debug\WcfServiceLibrary.csprojAssemblyReference.cache
+C:\Users\Костя\Desktop\Лабы Верёвкин\4 семестр\OOPVerevkin\WcfServiceLibrary\WcfServiceLibrary\obj\Debug\WcfServiceLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Костя\Desktop\Лабы Верёвкин\4 семестр\OOPVerevkin\WcfServiceLibrary\WcfServiceLibrary\obj\Debug\WcfServiceLibrary.dll
+C:\Users\Костя\Desktop\Лабы Верёвкин\4 семестр\OOPVerevkin\WcfServiceLibrary\WcfServiceLibrary\obj\Debug\WcfServiceLibrary.pdb

@@ -1,0 +1,28 @@
+C:\Users\Костя\Desktop\Лабы Верёвкин\4 семестр\OOPVerevkin\WCFServer\WCFServer\bin\Debug\WCFServer1.exe.config
+C:\Users\Костя\Desktop\Лабы Верёвкин\4 семестр\OOPVerevkin\WCFServer\WCFServer\bin\Debug\WCFServer1.exe
+C:\Users\Костя\Desktop\Лабы Верёвкин\4 семестр\OOPVerevkin\WCFServer\WCFServer\bin\Debug\WCFServer1.pdb
+C:\Users\Костя\Desktop\Лабы Верёвкин\4 семестр\OOPVerevkin\WCFServer\WCFServer\bin\Debug\WcfServiceLibrary.dll
+C:\Users\Костя\Desktop\Лабы Верёвкин\4 семестр\OOPVerevkin\WCFServer\WCFServer\bin\Debug\WcfServiceLibrary.pdb
+C:\Users\Костя\Desktop\Лабы Верёвкин\4 семестр\OOPVerevkin\WCFServer\WCFServer\bin\Debug\WcfServiceLibrary.dll.config
+C:\Users\Костя\Desktop\Лабы Верёвкин\4 семестр\OOPVerevkin\WCFServer\WCFServer\obj\Debug\WCFServer.csprojAssemblyReference.cache
+C:\Users\Костя\Desktop\Лабы Верёвкин\4 семестр\OOPVerevkin\WCFServer\WCFServer\obj\Debug\WCFServer1.Form1.resources
+C:\Users\Костя\Desktop\Лабы Верёвкин\4 семестр\OOPVerevkin\WCFServer\WCFServer\obj\Debug\WCFServer1.Properties.Resources.resources
+C:\Users\Костя\Desktop\Лабы Верёвкин\4 семестр\OOPVerevkin\WCFServer\WCFServer\obj\Debug\WCFServer.csproj.GenerateResource.cache
+C:\Users\Костя\Desktop\Лабы Верёвкин\4 семестр\OOPVerevkin\WCFServer\WCFServer\obj\Debug\WCFServer.csproj.CoreCompileInputs.cache
+C:\Users\Костя\Desktop\Лабы Верёвкин\4 семестр\OOPVerevkin\WCFServer\WCFServer\obj\Debug\WCFServer.csproj.CopyComplete
+C:\Users\Костя\Desktop\Лабы Верёвкин\4 семестр\OOPVerevkin\WCFServer\WCFServer\obj\Debug\WCFServer1.exe
+C:\Users\Костя\Desktop\Лабы Верёвкин\4 семестр\OOPVerevkin\WCFServer\WCFServer\obj\Debug\WCFServer1.pdb
+D:\ООП\Лаба 1\OOPVerevkin\WCFServer\WCFServer\bin\Debug\WCFServer1.exe.config
+D:\ООП\Лаба 1\OOPVerevkin\WCFServer\WCFServer\bin\Debug\WCFServer1.exe
+D:\ООП\Лаба 1\OOPVerevkin\WCFServer\WCFServer\bin\Debug\WCFServer1.pdb
+D:\ООП\Лаба 1\OOPVerevkin\WCFServer\WCFServer\bin\Debug\WcfServiceLibrary.dll
+D:\ООП\Лаба 1\OOPVerevkin\WCFServer\WCFServer\bin\Debug\WcfServiceLibrary.pdb
+D:\ООП\Лаба 1\OOPVerevkin\WCFServer\WCFServer\bin\Debug\WcfServiceLibrary.dll.config
+D:\ООП\Лаба 1\OOPVerevkin\WCFServer\WCFServer\obj\Debug\WCFServer.csprojAssemblyReference.cache
+D:\ООП\Лаба 1\OOPVerevkin\WCFServer\WCFServer\obj\Debug\WCFServer1.Form1.resources
+D:\ООП\Лаба 1\OOPVerevkin\WCFServer\WCFServer\obj\Debug\WCFServer1.Properties.Resources.resources
+D:\ООП\Лаба 1\OOPVerevkin\WCFServer\WCFServer\obj\Debug\WCFServer.csproj.GenerateResource.cache
+D:\ООП\Лаба 1\OOPVerevkin\WCFServer\WCFServer\obj\Debug\WCFServer.csproj.CoreCompileInputs.cache
+D:\ООП\Лаба 1\OOPVerevkin\WCFServer\WCFServer\obj\Debug\WCFServer.csproj.CopyComplete
+D:\ООП\Лаба 1\OOPVerevkin\WCFServer\WCFServer\obj\Debug\WCFServer1.exe
+D:\ООП\Лаба 1\OOPVerevkin\WCFServer\WCFServer\obj\Debug\WCFServer1.pdb

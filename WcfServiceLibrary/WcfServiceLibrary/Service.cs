@@ -12,12 +12,7 @@ namespace WcfServiceLibrary
     {
         public string Method1(string x)
         {
-            return string.Format("You entered: {0}", x);
-        }
-
-        public string Method2(string x)
-        {
-            return string.Format("You entered: {0}, yeah?", x); ;
+            return string.Format("Вы получили: {0} очков", x);
         }
     }
 }
