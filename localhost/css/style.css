@@ -1,0 +1,57 @@
+* {
+    box-sizing: border-box;
+}
+
+body{
+  padding: 0px;
+  margin: 0px;
+}
+
+.background {
+    display: flex;
+    height: 100vh;
+}
+
+.registration_block {
+    width: 600px;
+    height: 500px;
+    margin: auto;
+    border: 2px solid black;
+}
+
+.registration {
+    width: 250px;
+    margin: 45px auto;
+}
+
+.button {
+    display: block;
+    width: 280px;
+    height: 40px;
+    border-radius: 20px;
+    margin: 100px auto;
+    font-size: 15px;
+    font-style: italic;
+}
+
+.registration:first-child {
+    font-size: 25px;
+    text-align: center;
+    margin: 25px auto;
+}
+
+.nickname, .email, .phone {
+    width: 250px;
+    border: none;
+    border-bottom: 1px solid black;
+    padding: 5px;
+    font-size: 20px;
+}
+
+/*.Nick, .EMaile {
+    width: 350px;
+    margin: 0 auto;
+    margin-top: 50px;
+    font-size: 20px;
+    font-style: italic;
+}*/
