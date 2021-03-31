@@ -27,7 +27,9 @@
     <head>
         <meta http-equiv="Content-type" content="text/html;charset=UTF-8" />
         <title>Главное меню</title>
-        <link rel="stylesheet" href="css/style.css" />
+        <link rel="stylesheet" href="css/input.css" />
+        <link rel="preconnect" href="https://fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css2?family=Caveat:wght@400;700&display=swap" rel="stylesheet">
     </head>
 
 <body>
@@ -35,15 +37,26 @@
 <div class="Footer">
     <div class="Container">
         <div class="Menu">
-            <div class="Logo">Логотипчик :3</div>
-
+            <div class="Logo"><img src="img/logo.png" class="Logo_img"/></div>
             <div class="Menu_Items">
-                <a class="Item" href="#">Обзоры</a>
-                <a class="Item" href="#">Новости</a>
+                <a class="Item" href="#">Укромное местечко</a>
+                <a class="Item" href="#">Энциклопедия</a>
                 <p class="Nick">
                     <?php echo $_COOKIE['nick'] ?>
                 </p>
             </div>
+        </div>
+    </div>
+</div>
+
+<div class="Header">
+    <div class="Container">
+        <div class="News">
+            
+        </div>
+
+        <div class="Blogs">
+            
         </div>
     </div>
 </div>
