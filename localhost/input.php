@@ -3,9 +3,9 @@
     {
         $nickname = $_POST['nickname'];
         setcookie("nick", $nickname);        
-        //session_start();
-        //$_SESSION['EMail'] = $_POST['email'];
-        //$EMail = $_SESSION['EMail'];
+        session_start();
+        $_SESSION['EMail'] = $_POST['email'];
+        $EMail = $_SESSION['EMail'];
         //if (isset($_COOKIE['nick']) && isset($_SESSION['EMail'])) 
         //echo "<p class='Nick'> Привет " . $_COOKIE["nick"] . " :3</p>
             //<p class='EMaile'> Красивая почта: $EMail :)</p>";
@@ -39,10 +39,13 @@
         <div class="Menu">
             <div class="Logo"><img src="img/logo.png" class="Logo_img"/></div>
             <div class="Menu_Items">
+                <a class="Item" href="#">Новости</a>
                 <a class="Item" href="#">Укромное местечко</a>
                 <a class="Item" href="#">Энциклопедия</a>
-                <p class="Nick">
-                    <?php echo $_COOKIE['nick'] ?>
+                <p class="Email">
+                    <?php 
+                        echo $EMail;
+                    ?>
                 </p>
             </div>
         </div>
@@ -51,12 +54,14 @@
 
 <div class="Header">
     <div class="Container">
-        <div class="News">
-            
-        </div>
+        <div class="Header_Items">
+            <h1 class="Nick">
+                Добро пожаловать
+            </h1>
 
-        <div class="Blogs">
-            
+            <h1 class="Nick">
+                <?php echo $_COOKIE['nick'] ?>
+            </h1>
         </div>
     </div>
 </div>
